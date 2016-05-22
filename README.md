@@ -16,10 +16,17 @@ npm install -g purescript
 
 ### Installation
 
-Go to repo root folder and run those commands:
+Once you download the repo, go to its root folder and run those commands to install dependences:
 ```
 npm install
 bower install
+```
+
+### Run
+
+Run following command to start session:
+
+```
 gulp
 ```
 
