@@ -1,0 +1,5 @@
+# History files
+dist/bundle.js
+bower_components
+node_modules
+output
